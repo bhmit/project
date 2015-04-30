@@ -4,6 +4,8 @@ import java.util.ArrayList;
 
 public class Authenticate {
 
+	// new coment
+
 	// authenticate user using the credentials
 	public String authenticateUser(String username, String password)
 			throws CException {
