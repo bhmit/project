@@ -7,6 +7,7 @@ import java.util.Map;
 
 public class DatabaseClass {
 
+	//new chane 
 	static final String driver = "com.mysql.jdbc.Driver";
 
 	private static final String uri = "jdbc:mysql://delalaty.com/484PROJECT";
